@@ -4,6 +4,8 @@ A tool to help synchronizing project directory between remote and local environm
 
 ## Setup
 
+    python setup.py install
+
 ## Usage
 
 First, you should start the remote rsync service.
