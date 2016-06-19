@@ -1,6 +1,6 @@
 import sys
 import logging
-from RsyncContext import RsyncManager, RsyncContext, set_debug
+from rsync_workflow.RsyncContext import RsyncManager, RsyncContext, set_debug
 
 if len(sys.argv) != 3:
     logging.error('missing arguments')

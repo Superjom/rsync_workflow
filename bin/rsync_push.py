@@ -1,4 +1,4 @@
-from RsyncContext import RsyncManager, RsyncContext, set_debug
+from rsync_workflow.RsyncContext import RsyncManager, RsyncContext, set_debug
 
 set_debug(False)
 
